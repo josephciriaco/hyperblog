@@ -1,4 +1,5 @@
-#hyperblog :tw-1f4d4:
+#hyperblog 💚
+
 Un  blog increíble para el curso de [Git y GitHub](https://platzi.com/cursos/git-github/ "Git y GitHub") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y GitHub es lo que me faltaba para tricplicar mi salario y ser un profesional exitoso en el mundo  tech.
 
